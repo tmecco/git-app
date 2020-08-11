@@ -1,3 +1,3 @@
 # README
 ## how to use GitHub Desktop
-## test
+## how to use git revert
